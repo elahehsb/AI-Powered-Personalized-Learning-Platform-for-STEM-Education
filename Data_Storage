@@ -1,0 +1,8 @@
+{
+  "_id": "interaction_id",
+  "student_id": 123,
+  "timestamp": 1622547800,
+  "question": "Explain Pythagorean theorem",
+  "response": "Correct",
+  "feedback": "Great job!"
+}
