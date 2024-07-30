@@ -1,5 +1,5 @@
 import time
-import json
+import json 
 import random
 from kafka import KafkaProducer
 
